@@ -1,1 +1,1 @@
-# js_clock_kodluyoruz
+# Greeting clock with JavaScript
